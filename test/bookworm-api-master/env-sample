@@ -1,0 +1,2 @@
+MONGODB_URL=mongodb://max:bAOPjXFKbR9Fy3V9@cluster0-shard-00-00-49t5g.mongodb.net:27017,cluster0-shard-00-01-49t5g.mongodb.net:27017,cluster0-shard-00-02-49t5g.mongodb.net:27017/bookapi?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority
+JWT_SECRET=secretkeyhere
