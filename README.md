@@ -26,7 +26,7 @@ sudo apt update
 
 sudo apt install yarn nodejs
 
-yarn –version
+	yarn –version
 
 to give node permission
 sudo npm install -g --unsafe-perm
